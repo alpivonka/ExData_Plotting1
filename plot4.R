@@ -1,4 +1,6 @@
 plot4<-function(){
+  #Source the getData.R file which loads the data from a ./data directory and makes all changes required to the data before 
+  # it is needed by the plotting. Please review getData.R for the acquisition of data.
   source(file = "getData.R")
   mydata<-getData()
   attach(mydata)
