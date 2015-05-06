@@ -9,6 +9,8 @@ Once I was satified with the results of my work I copy&pasted my work into the a
 
 3) I used a central file to perform the data load and caching and it is refereneced in all my plot#.R files and sourced (getData.R). I due this to simplify the code base.
 
+4) I have also updated this README.md with my plot images (See below)
+
 
 
 ## Introduction
