@@ -1,3 +1,13 @@
+## Al Pivonka Notes to Grader(s)
+I first constructed and tested all my work within ClassProject1.R.
+Once I was satified with the results of my work I copy&pasted my work into the appropriate plot#.R file and cleaned up the code.
+
+1) All my plots have my name as the title.main to prove this was my work.
+2) I found it useful to utilize the package R.cache to load the data once and have it available for testing.
+3) I used a central file to perform the data load and caching and it is refereneced in all my plot#.R files and sourced (getData.R). I due this to simplify the code base.
+
+
+
 ## Introduction
 
 This assignment uses data from
